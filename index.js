@@ -61,7 +61,7 @@ function playSound(key){
                 break;
 
             default:
-                console.log(buttonInnerHTML);
+                console.log(key);
         }
 }
 
